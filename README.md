@@ -36,6 +36,7 @@ This project demonstrates fundamental image processing techniques using OpenCV i
 📦 Packages Used:
 
 Package-Name	                      -                  Purpose
+------------                                           -------
 
 opencv-python         	            -                  Image loading and manipulation
 
