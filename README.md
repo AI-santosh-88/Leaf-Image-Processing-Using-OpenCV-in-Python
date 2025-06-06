@@ -31,10 +31,10 @@ This project demonstrates fundamental image processing techniques using OpenCV i
 * Flipped the image vertically
 * Flipped the image horizontally
 * Flipped the image both horizontally and vertically
+  
 
 
 📦 Packages Used:
-
 Package-Name	                      -                  Purpose
 ---------------------------------------------------------------                                           
 opencv-python         	            -                  Image loading and manipulation
