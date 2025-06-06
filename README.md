@@ -8,6 +8,7 @@ This project demonstrates fundamental image processing techniques using OpenCV i
 
 
 🛠️ Responsibilities / Steps Performed:
+
 1.Package Installation & Importing:
 * Installed opencv-python
 * Imported necessary libraries (cv2, cv2_imshow)
