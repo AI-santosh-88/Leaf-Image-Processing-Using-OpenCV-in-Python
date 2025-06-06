@@ -6,8 +6,8 @@ Leaf Image Processing Using OpenCV in Python
 This project demonstrates fundamental image processing techniques using OpenCV in Python. A sample image of a leaf is loaded and processed through various operations such as color conversion, resizing, cropping, and flipping. The main aim is to familiarize with OpenCV functions and explore basic transformations and visualizations used in image analysis.
 
 
-🛠️ Responsibilities / Steps Performed:
 
+🛠️ Responsibilities / Steps Performed:
 1.Package Installation & Importing:
 * Installed opencv-python
 * Imported necessary libraries (cv2, cv2_imshow)
