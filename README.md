@@ -36,8 +36,7 @@ This project demonstrates fundamental image processing techniques using OpenCV i
 📦 Packages Used:
 
 Package-Name	                      -                  Purpose
-------------                                           -------
-
+---------------------------------------------------------------                                           
 opencv-python         	            -                  Image loading and manipulation
 
 google.colab.patches.cv2_imshow	    -                  Display images in Google Colab
