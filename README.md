@@ -33,6 +33,16 @@ This project demonstrates fundamental image processing techniques using OpenCV i
 * Flipped the image both horizontally and vertically
 
 
+📦 Packages Used:
+
+Package-Name	                      -                  Purpose
+opencv-python         	            -                  Image loading and manipulation
+google.colab.patches.cv2_imshow	    -                  Display images in Google Colab
+
+
+📊 Project Summary:
+This project serves as a hands-on introduction to image manipulation using the OpenCV library in Python. It provides foundational knowledge necessary for more advanced tasks such as object detection, image segmentation, and computer vision applications. The code showcases how to perform basic image processing techniques and view transformations using cv2_imshow, making it an ideal starter project for those learning computer vision.
+
 
 
 
